@@ -1,7 +1,7 @@
-name: Java CI
+name: Java CI (Chaiyong)
 
 on:
-  pull_request:
+  push:
     branches:
       - chaiyong
 
