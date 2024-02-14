@@ -1,4 +1,4 @@
-name: Java CI (Chaiyong)
+name: Java CI (Chaiyong) 
 
 on:
   push:
