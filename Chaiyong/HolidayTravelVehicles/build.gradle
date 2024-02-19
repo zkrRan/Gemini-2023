@@ -7,5 +7,6 @@ sonar {
     property "sonar.projectKey", "ICT-Mahidol_Gemini-2023"
     property "sonar.organization", "ict-mahidol"
     property "sonar.host.url", "https://sonarcloud.io"
+    property "sonar.projectBaseDir", "Chaiyong/HolidayTravelVehicles"
   }
 }
